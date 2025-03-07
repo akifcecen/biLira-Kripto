@@ -12,8 +12,8 @@ This project includes two test cases first one checks for product title on searc
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone hhttps://github.com/akifcecen/biLira-Kripto.git
+    cd  biLira-Kripto
     ```
 2. Install dependencies:
     ```bash
@@ -29,7 +29,7 @@ This project includes two test cases first one checks for product title on searc
     ```
 ## Project Structure
 ```
-your-repo-name/
+biLira-Kripto/
 ├── tests/                       # Test files
 │   ├── searchModule.spec.ts     # Tests 
 ├── helpers/                     # Helpers 
@@ -41,7 +41,7 @@ your-repo-name/
 │   ├── basePage.page.ts         # Base Page Methods
 ├── package.json                 # Project metadata and dependencies
 ├── playwright.config.js         # Playwright configuration file
-└── README.md               # Project documentation
+└── README.md                    # Project documentation
 ```
 
 ## Running Tests
