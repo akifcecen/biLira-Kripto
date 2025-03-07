@@ -47,5 +47,11 @@ biLira-Kripto/
 ## Running Tests
 To run the tests, use the following command:
 ```bash
-npx playwright test
+npm run test
+```
+
+## Show Test Report
+To run the tests, use the following command:
+```bash
+npm run test:report
 ```
